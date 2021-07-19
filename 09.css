@@ -1,0 +1,369 @@
+.mediaViewInfo {
+	--web-view-name: 09. Receipt;
+	--web-view-id: ID09_Receipt;
+	--web-scale-to-fit: true;
+	--web-scale-to-fit-type: fit;
+	--web-scale-on-resize: true;
+	--web-center-vertically: true;
+	--web-enable-deep-linking: true;
+}
+:root {
+	--web-view-ids: ID09_Receipt;
+}
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	border: none;
+}
+.ID09_Receipt_Class {
+	position: absolute;
+	width: 1136px;
+	height: 2436px;
+	background-color: rgba(255,255,255,1);
+	overflow: hidden;
+	--web-view-name: 09. Receipt;
+	--web-view-id: ID09_Receipt;
+	--web-scale-to-fit: true;
+	--web-scale-to-fit-type: fit;
+	--web-scale-on-resize: true;
+	--web-center-vertically: true;
+	--web-enable-deep-linking: true;
+}
+@keyframes fadein {
+
+	0% {
+		opacity: 0;
+	}
+	100% {
+		opacity: 1;
+	}
+
+}
+.Rectangle_4_Class {
+	fill: rgba(42,66,74,1);
+}
+.Rectangle_4 {
+	position: absolute;
+	overflow: visible;
+	width: 1136px;
+	height: 2436px;
+	left: 0px;
+	top: 0px;
+}
+.botom_bar_Class {
+	fill: rgba(49,77,85,1);
+}
+.botom_bar {
+	overflow: visible;
+	position: absolute;
+	width: 1136px;
+	height: 200px;
+	left: 0px;
+	top: 2236px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.menu_Class {
+	opacity: 0.55;
+	position: absolute;
+	width: 55.564px;
+	height: 53px;
+	left: 984px;
+	top: 2310px;
+	overflow: visible;
+}
+.Line_192_Class {
+	fill: transparent;
+	stroke: rgba(255,255,255,1);
+	stroke-width: 10px;
+	stroke-linejoin: miter;
+	stroke-linecap: round;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Line_192 {
+	overflow: visible;
+	position: absolute;
+	width: 65.564px;
+	height: 10px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Line_193_Class {
+	fill: transparent;
+	stroke: rgba(255,255,255,1);
+	stroke-width: 10px;
+	stroke-linejoin: miter;
+	stroke-linecap: round;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Line_193 {
+	overflow: visible;
+	position: absolute;
+	width: 65.564px;
+	height: 10px;
+	left: 0px;
+	top: 27px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Line_194_Class {
+	fill: transparent;
+	stroke: rgba(255,255,255,1);
+	stroke-width: 10px;
+	stroke-linejoin: miter;
+	stroke-linecap: round;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Line_194 {
+	overflow: visible;
+	position: absolute;
+	width: 65.564px;
+	height: 10px;
+	left: 0px;
+	top: 53px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.settings_Class {
+	opacity: 0.55;
+	fill: rgba(255,255,255,1);
+}
+.settings {
+	overflow: visible;
+	position: absolute;
+	width: 71.083px;
+	height: 74.447px;
+	left: 780.5px;
+	top: 2299px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.my_content_button_Class {
+	position: absolute;
+	width: 178px;
+	height: 178px;
+	left: 479px;
+	top: 2180px;
+	overflow: visible;
+	transition: all 0.4s ease-out;
+	--web-animation: fadein 0.4s ease-out;
+	--web-action-type: page;
+	--web-action-target: 03__My_Content.html;
+	cursor: pointer;
+}
+.Ellipse_3_Class {
+	fill: rgba(72,101,109,1);
+}
+.Ellipse_3 {
+	filter: drop-shadow(0px 16px 9px rgba(0, 0, 0, 0.051));
+	position: absolute;
+	overflow: visible;
+	width: 205px;
+	height: 207.5px;
+	left: 0px;
+	top: 0px;
+}
+.Group_1_Class {
+	opacity: 0.8;
+	position: absolute;
+	width: 74px;
+	height: 74px;
+	left: 52px;
+	top: 52px;
+	overflow: visible;
+}
+.Rectangle_6_Class {
+	fill: rgba(255,255,255,1);
+}
+.Rectangle_6 {
+	position: absolute;
+	overflow: visible;
+	width: 31px;
+	height: 31px;
+	left: 0px;
+	top: 0px;
+}
+.Rectangle_9_Class {
+	fill: rgba(255,255,255,1);
+}
+.Rectangle_9 {
+	position: absolute;
+	overflow: visible;
+	width: 31px;
+	height: 31px;
+	left: 0px;
+	top: 43px;
+}
+.Rectangle_7_Class {
+	fill: rgba(255,255,255,1);
+}
+.Rectangle_7 {
+	position: absolute;
+	overflow: visible;
+	width: 31px;
+	height: 31px;
+	left: 43px;
+	top: 0px;
+}
+.Rectangle_8_Class {
+	fill: rgba(255,255,255,1);
+}
+.Rectangle_8 {
+	position: absolute;
+	overflow: visible;
+	width: 31px;
+	height: 31px;
+	left: 43px;
+	top: 43px;
+}
+.notification_Class {
+	position: absolute;
+	width: 74.258px;
+	height: 76.447px;
+	left: 306.742px;
+	top: 2296px;
+	overflow: visible;
+}
+.Ellipse_7_Class {
+	fill: rgba(249,166,26,1);
+}
+.Ellipse_7 {
+	position: absolute;
+	overflow: visible;
+	width: 22px;
+	height: 22px;
+	left: 52.258px;
+	top: 0px;
+}
+.notification__Class {
+	opacity: 0.55;
+	fill: rgba(255,255,255,1);
+}
+.notification_ {
+	overflow: visible;
+	position: absolute;
+	width: 60.424px;
+	height: 72.447px;
+	left: 0px;
+	top: 4px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.home_Class {
+	fill: rgba(249,166,26,1);
+}
+.home {
+	overflow: visible;
+	position: absolute;
+	width: 81.892px;
+	height: 70.724px;
+	left: 84px;
+	top: 2301px;
+	transform: matrix(1,0,0,1,0,0);
+	transition: all 0.4s ease-out;
+	--web-animation: fadein 0.4s ease-out;
+	--web-action-type: page;
+	--web-action-target: 04__Browse.html;
+	cursor: pointer;
+}
+.DOWNLOAD_Class {
+	position: absolute;
+	width: 960px;
+	height: 157px;
+	left: 88px;
+	top: 1975px;
+	overflow: visible;
+}
+.Rectangle_44_Class {
+	fill: rgba(249,166,26,1);
+}
+.Rectangle_44 {
+	filter: drop-shadow(0px 11px 20px rgba(0, 0, 0, 0.169));
+	position: absolute;
+	overflow: visible;
+	width: 1020px;
+	height: 217px;
+	left: 0px;
+	top: 0px;
+}
+.DOWNLOAD__Class {
+	left: 344px;
+	top: 39px;
+	position: absolute;
+	overflow: visible;
+	width: 274px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Titillium Web;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 52px;
+	color: rgba(255,255,255,1);
+}
+.Receipt_Class {
+	filter: drop-shadow(0px 18px 20px rgba(0, 0, 0, 0.161));
+	position: absolute;
+	width: 1080px;
+	height: 1527px;
+	left: 28px;
+	top: 330px;
+	overflow: visible;
+}
+.Line_Class {
+	opacity: 0.19;
+	fill: transparent;
+	stroke: rgba(255,255,255,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Line {
+	overflow: visible;
+	position: absolute;
+	width: 1136px;
+	height: 1px;
+	left: 0.5px;
+	top: 229.5px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.back__cross_Class {
+	position: absolute;
+	width: 41.007px;
+	height: 40.856px;
+	left: 1050.496px;
+	top: 35px;
+	overflow: visible;
+	transition: all 0.4s ease-out;
+	--web-animation: fadein 0.4s ease-out;
+	--web-action-type: page;
+	--web-action-target: 04__Browse.html;
+	cursor: pointer;
+}
+.icons8_multiply_1_Class {
+	fill: rgba(149,161,165,1);
+}
+.icons8_multiply_1 {
+	overflow: visible;
+	position: absolute;
+	width: 41.007px;
+	height: 40.856px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Receipt_bd_Class {
+	left: 88px;
+	top: 102.396px;
+	position: absolute;
+	overflow: visible;
+	width: 209px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Titillium Web;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 65px;
+	color: rgba(255,255,255,1);
+}

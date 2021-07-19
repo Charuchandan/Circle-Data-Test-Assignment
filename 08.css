@@ -1,0 +1,224 @@
+.mediaViewInfo {
+	--web-view-name: 08. OTP;
+	--web-view-id: ID08_OTP;
+	--web-scale-to-fit: true;
+	--web-scale-to-fit-type: fit;
+	--web-scale-on-resize: true;
+	--web-center-vertically: true;
+	--web-enable-deep-linking: true;
+}
+:root {
+	--web-view-ids: ID08_OTP;
+}
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	border: none;
+}
+.ID08_OTP_Class {
+	position: absolute;
+	width: 1136px;
+	height: 2436px;
+	background-color: rgba(255,255,255,1);
+	overflow: hidden;
+	--web-view-name: 08. OTP;
+	--web-view-id: ID08_OTP;
+	--web-scale-to-fit: true;
+	--web-scale-to-fit-type: fit;
+	--web-scale-on-resize: true;
+	--web-center-vertically: true;
+	--web-enable-deep-linking: true;
+}
+@keyframes fadein {
+
+	0% {
+		opacity: 0;
+	}
+	100% {
+		opacity: 1;
+	}
+
+}
+.Rectangle_4_bg_Class {
+	fill: rgba(42,66,74,1);
+}
+.Rectangle_4_bg {
+	position: absolute;
+	overflow: visible;
+	width: 1136px;
+	height: 2436px;
+	left: 0px;
+	top: 0px;
+}
+.Group_5_Class {
+	position: absolute;
+	width: 1137px;
+	height: 1483px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+.OTP_BG_Class {
+	fill: rgba(49,74,82,1);
+}
+.OTP_BG {
+	position: absolute;
+	overflow: visible;
+	width: 1137px;
+	height: 1483px;
+	left: 0px;
+	top: 0px;
+}
+.Enter_your_OTP_Class {
+	position: absolute;
+	width: 960px;
+	height: 133px;
+	left: 88px;
+	top: 932px;
+	overflow: visible;
+}
+.Rectangle_68_Class {
+	fill: rgba(42,66,74,1);
+	stroke: rgba(91,247,226,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_68 {
+	position: absolute;
+	overflow: visible;
+	width: 960px;
+	height: 133px;
+	left: 0px;
+	top: 0px;
+}
+.Enter_your_OTP_bl_Class {
+	opacity: 0.3;
+	left: 39px;
+	top: 36px;
+	position: absolute;
+	overflow: visible;
+	width: 259px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Titillium Web;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 40px;
+	color: rgba(255,255,255,1);
+}
+.Time_circle_Class {
+	position: absolute;
+	width: 269.571px;
+	height: 365px;
+	left: 433px;
+	top: 394px;
+	overflow: visible;
+}
+.Group_4_Class {
+	position: absolute;
+	width: 269.571px;
+	height: 269.571px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+.Ellipse_10_Class {
+	fill: rgba(0,0,0,0);
+	stroke: rgba(248,146,11,1);
+	stroke-width: 16px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Ellipse_10 {
+	position: absolute;
+	overflow: visible;
+	width: 285.571px;
+	height: 285.571px;
+	left: 0px;
+	top: 0px;
+}
+.Path_11_Class {
+	fill: rgba(0,0,0,0);
+	stroke: rgba(31,51,57,1);
+	stroke-width: 22px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Path_11 {
+	overflow: visible;
+	position: absolute;
+	width: 128.184px;
+	height: 86.789px;
+	left: 134.785px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.ID4_min_50_sec_Class {
+	opacity: 0.8;
+	left: 3px;
+	top: 290px;
+	position: absolute;
+	overflow: visible;
+	width: 265px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Titillium Web;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 49px;
+	color: rgba(255,255,255,1);
+}
+.pay_Class {
+	position: absolute;
+	width: 960px;
+	height: 133px;
+	left: 88px;
+	top: 1167px;
+	overflow: visible;
+	transition: all 0.3s linear;
+	--web-animation: fadein 0.3s linear;
+	--web-action-type: page;
+	--web-action-target: 09__Receipt.html;
+	cursor: pointer;
+}
+.Rectangle_77_Class {
+	fill: rgba(249,166,26,1);
+}
+.Rectangle_77 {
+	position: absolute;
+	overflow: visible;
+	width: 960px;
+	height: 133px;
+	left: 0px;
+	top: 0px;
+}
+.PAY_bt_Class {
+	left: 437px;
+	top: 27px;
+	position: absolute;
+	overflow: visible;
+	width: 88px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Titillium Web;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 52px;
+	color: rgba(255,255,255,1);
+}
+.keyboard_Class {
+	position: absolute;
+	width: 1136px;
+	height: 954px;
+	left: 0px;
+	top: 1482px;
+	overflow: visible;
+}

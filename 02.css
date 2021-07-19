@@ -1,0 +1,250 @@
+.mediaViewInfo {
+	--web-view-name: 02. Login;
+	--web-view-id: ID02_Login;
+	--web-scale-to-fit: true;
+	--web-scale-to-fit-type: fit;
+	--web-scale-on-resize: true;
+	--web-center-vertically: true;
+	--web-enable-deep-linking: true;
+}
+:root {
+	--web-view-ids: ID02_Login;
+}
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	border: none;
+}
+.ID02_Login_Class {
+	position: absolute;
+	width: 1136px;
+	height: 2436px;
+	background-color: rgba(255,255,255,1);
+	overflow: hidden;
+	--web-view-name: 02. Login;
+	--web-view-id: ID02_Login;
+	--web-scale-to-fit: true;
+	--web-scale-to-fit-type: fit;
+	--web-scale-on-resize: true;
+	--web-center-vertically: true;
+	--web-enable-deep-linking: true;
+}
+@keyframes fadein {
+
+	0% {
+		opacity: 0;
+	}
+	100% {
+		opacity: 1;
+	}
+
+}
+.Color_Circle_Class {
+	position: absolute;
+	width: 2050px;
+	height: 1429px;
+	left: -413px;
+	top: -728px;
+	overflow: visible;
+}
+.Ellipse_4_Class {
+	fill: rgba(247,166,30,1);
+}
+.Ellipse_4 {
+	position: absolute;
+	overflow: visible;
+	width: 1951px;
+	height: 1369px;
+	left: 99px;
+	top: 60px;
+}
+.Ellipse_1_Class {
+	fill: rgba(42,66,74,1);
+}
+.Ellipse_1 {
+	position: absolute;
+	overflow: visible;
+	width: 1951px;
+	height: 1369px;
+	left: 0px;
+	top: 0px;
+}
+.Login_Class {
+	position: absolute;
+	width: 660px;
+	height: 172px;
+	left: 233px;
+	top: 1918px;
+	overflow: visible;
+	transition: all 0.4s ease-out;
+	--web-animation: fadein 0.4s ease-out;
+	--web-action-type: page;
+	--web-action-target: 03__My_Content.html;
+	cursor: pointer;
+}
+.Rectangle_1_Class {
+	fill: rgba(42,66,74,1);
+}
+.Rectangle_1 {
+	position: absolute;
+	overflow: visible;
+	width: 660px;
+	height: 172px;
+	left: 0px;
+	top: 0px;
+}
+.Login_kh_Class {
+	left: 272px;
+	top: 48px;
+	position: absolute;
+	overflow: visible;
+	width: 117px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Titillium Web;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 50px;
+	color: rgba(255,255,255,1);
+}
+.Logo-White_Class {
+	position: absolute;
+	width: 511px;
+	height: 119px;
+	left: 313px;
+	top: 269px;
+	overflow: visible;
+}
+.Login_Text_Class {
+	position: absolute;
+	width: 929px;
+	height: 1550px;
+	left: 104px;
+	top: 792px;
+	overflow: visible;
+}
+.Password_Class {
+	left: 0px;
+	top: 620px;
+	position: absolute;
+	overflow: visible;
+	width: 212px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Titillium Web;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 50px;
+	color: rgba(77,77,77,1);
+}
+.Email_Class {
+	left: 0px;
+	top: 374px;
+	position: absolute;
+	overflow: visible;
+	width: 121px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Titillium Web;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 50px;
+	color: rgba(77,77,77,1);
+}
+.Forgot_password_Class {
+	left: 291px;
+	top: 883px;
+	position: absolute;
+	overflow: visible;
+	width: 337px;
+	white-space: nowrap;
+	line-height: 49px;
+	margin-top: -2.5px;
+	text-align: center;
+	font-family: Titillium Web;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 44px;
+	color: rgba(249,166,26,1);
+}
+.Dont_have_an_account_Create_Ne_Class {
+	left: 243px;
+	top: 1404px;
+	position: absolute;
+	overflow: visible;
+	width: 433px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Titillium Web;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 44px;
+	color: rgba(149,149,149,1);
+}
+.Enter_your_login_info_to_sign__Class {
+	left: 32px;
+	top: 126px;
+	position: absolute;
+	overflow: visible;
+	width: 866px;
+	height: 163px;
+	text-align: center;
+	font-family: Titillium Web;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 45px;
+	color: rgba(149,149,149,1);
+}
+.Login_kp_Class {
+	left: 377px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 177px;
+	white-space: nowrap;
+	line-height: 152px;
+	margin-top: -38.5px;
+	text-align: left;
+	font-family: Titillium Web;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 75px;
+	color: rgba(135,135,135,1);
+}
+.Line_187_Class {
+	fill: transparent;
+	stroke: rgba(191,191,191,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Line_187 {
+	overflow: visible;
+	position: absolute;
+	width: 928.416px;
+	height: 1px;
+	left: 0.584px;
+	top: 475.133px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Line_188_Class {
+	fill: transparent;
+	stroke: rgba(191,191,191,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Line_188 {
+	overflow: visible;
+	position: absolute;
+	width: 928.416px;
+	height: 1px;
+	left: 0.584px;
+	top: 721.543px;
+	transform: matrix(1,0,0,1,0,0);
+}

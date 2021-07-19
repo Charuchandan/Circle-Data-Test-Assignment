@@ -1,0 +1,714 @@
+.mediaViewInfo {
+	--web-view-name: 06. Order summary;
+	--web-view-id: ID06_Order_summary;
+	--web-scale-to-fit: true;
+	--web-scale-to-fit-type: fit;
+	--web-scale-on-resize: true;
+	--web-center-vertically: true;
+	--web-enable-deep-linking: true;
+}
+:root {
+	--web-view-ids: ID06_Order_summary;
+}
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	border: none;
+}
+.ID06_Order_summary_Class {
+	position: absolute;
+	width: 1136px;
+	height: 2436px;
+	background-color: rgba(255,255,255,1);
+	overflow: hidden;
+	--web-view-name: 06. Order summary;
+	--web-view-id: ID06_Order_summary;
+	--web-scale-to-fit: true;
+	--web-scale-to-fit-type: fit;
+	--web-scale-on-resize: true;
+	--web-center-vertically: true;
+	--web-enable-deep-linking: true;
+}
+@keyframes fadein {
+
+	0% {
+		opacity: 0;
+	}
+	100% {
+		opacity: 1;
+	}
+
+}
+.Rectangle_4_c_Class {
+	fill: rgba(42,66,74,1);
+}
+.Rectangle_4_c {
+	position: absolute;
+	overflow: visible;
+	width: 1136px;
+	height: 2436px;
+	left: 0px;
+	top: 0px;
+}
+.botom_bar_c_Class {
+	fill: rgba(49,77,85,1);
+}
+.botom_bar_c {
+	overflow: visible;
+	position: absolute;
+	width: 1136px;
+	height: 200px;
+	left: 0px;
+	top: 2236px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.menu_da_Class {
+	opacity: 0.55;
+	position: absolute;
+	width: 55.564px;
+	height: 53px;
+	left: 984px;
+	top: 2310px;
+	overflow: visible;
+}
+.Line_192_db_Class {
+	fill: transparent;
+	stroke: rgba(255,255,255,1);
+	stroke-width: 10px;
+	stroke-linejoin: miter;
+	stroke-linecap: round;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Line_192_db {
+	overflow: visible;
+	position: absolute;
+	width: 65.564px;
+	height: 10px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Line_193_dc_Class {
+	fill: transparent;
+	stroke: rgba(255,255,255,1);
+	stroke-width: 10px;
+	stroke-linejoin: miter;
+	stroke-linecap: round;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Line_193_dc {
+	overflow: visible;
+	position: absolute;
+	width: 65.564px;
+	height: 10px;
+	left: 0px;
+	top: 27px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Line_194_dd_Class {
+	fill: transparent;
+	stroke: rgba(255,255,255,1);
+	stroke-width: 10px;
+	stroke-linejoin: miter;
+	stroke-linecap: round;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Line_194_dd {
+	overflow: visible;
+	position: absolute;
+	width: 65.564px;
+	height: 10px;
+	left: 0px;
+	top: 53px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.settings_de_Class {
+	opacity: 0.55;
+	fill: rgba(255,255,255,1);
+}
+.settings_de {
+	overflow: visible;
+	position: absolute;
+	width: 71.083px;
+	height: 74.447px;
+	left: 780.5px;
+	top: 2299px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.my_content_button_df_Class {
+	position: absolute;
+	width: 178px;
+	height: 178px;
+	left: 479px;
+	top: 2180px;
+	overflow: visible;
+	transition: all 0.4s ease-out;
+	--web-animation: fadein 0.4s ease-out;
+	--web-action-type: page;
+	--web-action-target: 03__My_Content.html;
+	cursor: pointer;
+}
+.Ellipse_3_dg_Class {
+	fill: rgba(72,101,109,1);
+}
+.Ellipse_3_dg {
+	filter: drop-shadow(0px 16px 9px rgba(0, 0, 0, 0.051));
+	position: absolute;
+	overflow: visible;
+	width: 205px;
+	height: 207.5px;
+	left: 0px;
+	top: 0px;
+}
+.Group_1_dh_Class {
+	opacity: 0.8;
+	position: absolute;
+	width: 74px;
+	height: 74px;
+	left: 52px;
+	top: 52px;
+	overflow: visible;
+}
+.Rectangle_6_di_Class {
+	fill: rgba(255,255,255,1);
+}
+.Rectangle_6_di {
+	position: absolute;
+	overflow: visible;
+	width: 31px;
+	height: 31px;
+	left: 0px;
+	top: 0px;
+}
+.Rectangle_9_dj_Class {
+	fill: rgba(255,255,255,1);
+}
+.Rectangle_9_dj {
+	position: absolute;
+	overflow: visible;
+	width: 31px;
+	height: 31px;
+	left: 0px;
+	top: 43px;
+}
+.Rectangle_7_dk_Class {
+	fill: rgba(255,255,255,1);
+}
+.Rectangle_7_dk {
+	position: absolute;
+	overflow: visible;
+	width: 31px;
+	height: 31px;
+	left: 43px;
+	top: 0px;
+}
+.Rectangle_8_dl_Class {
+	fill: rgba(255,255,255,1);
+}
+.Rectangle_8_dl {
+	position: absolute;
+	overflow: visible;
+	width: 31px;
+	height: 31px;
+	left: 43px;
+	top: 43px;
+}
+.notification_dm_Class {
+	opacity: 0.55;
+	fill: rgba(255,255,255,1);
+}
+.notification_dm {
+	overflow: visible;
+	position: absolute;
+	width: 60.423px;
+	height: 72.447px;
+	left: 306.742px;
+	top: 2300px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.home_dn_Class {
+	fill: rgba(249,166,26,1);
+}
+.home_dn {
+	overflow: visible;
+	position: absolute;
+	width: 81.892px;
+	height: 70.724px;
+	left: 84px;
+	top: 2301px;
+	transform: matrix(1,0,0,1,0,0);
+	transition: all 0.4s ease-out;
+	--web-animation: fadein 0.4s ease-out;
+	--web-action-type: page;
+	--web-action-target: 04__Browse.html;
+	cursor: pointer;
+}
+.ok_Class {
+	position: absolute;
+	width: 960px;
+	height: 157px;
+	left: 88px;
+	top: 1975px;
+	overflow: visible;
+	transition: all 0.4s ease-out;
+	--web-animation: fadein 0.4s ease-out;
+	--web-action-type: page;
+	--web-action-target: 07__Payment_Delails.html;
+	cursor: pointer;
+}
+.Rectangle_44_dp_Class {
+	fill: rgba(249,166,26,1);
+}
+.Rectangle_44_dp {
+	filter: drop-shadow(0px 11px 20px rgba(0, 0, 0, 0.169));
+	position: absolute;
+	overflow: visible;
+	width: 1020px;
+	height: 217px;
+	left: 0px;
+	top: 0px;
+}
+.OK_dq_Class {
+	left: 448px;
+	top: 39px;
+	position: absolute;
+	overflow: visible;
+	width: 65px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Titillium Web;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 52px;
+	color: rgba(255,255,255,1);
+}
+.Group_11_Class {
+	position: absolute;
+	width: 960px;
+	height: 218.5px;
+	left: 88px;
+	top: 1654.5px;
+	overflow: visible;
+}
+.Rectangle_75_Class {
+	opacity: 0.4;
+	fill: rgba(42,66,74,1);
+	stroke: rgba(91,247,226,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_75 {
+	position: absolute;
+	overflow: visible;
+	width: 960px;
+	height: 133px;
+	left: 0px;
+	top: 85.5px;
+}
+.Total_due_Class {
+	left: 0px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 192px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Titillium Web;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 40px;
+	color: rgba(91,247,226,1);
+	text-transform: uppercase;
+}
+.ID998_Class {
+	left: 424px;
+	top: 113.5px;
+	position: absolute;
+	overflow: visible;
+	width: 113px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Titillium Web;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 50px;
+	color: rgba(255,255,255,1);
+}
+.Group_10_Class {
+	position: absolute;
+	width: 960px;
+	height: 218.5px;
+	left: 88px;
+	top: 1379.5px;
+	overflow: visible;
+}
+.Rectangle_74_Class {
+	opacity: 0.4;
+	fill: rgba(42,66,74,1);
+	stroke: rgba(91,247,226,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_74 {
+	position: absolute;
+	overflow: visible;
+	width: 960px;
+	height: 133px;
+	left: 0px;
+	top: 85.5px;
+}
+.SUBTOTAL_Class {
+	left: 0px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 182px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Titillium Web;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 40px;
+	color: rgba(91,247,226,1);
+	text-transform: uppercase;
+}
+.ID998_dy_Class {
+	left: 424px;
+	top: 113.5px;
+	position: absolute;
+	overflow: visible;
+	width: 113px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Titillium Web;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 50px;
+	color: rgba(255,255,255,1);
+}
+.Group_9_Class {
+	position: absolute;
+	width: 960px;
+	height: 218.5px;
+	left: 88px;
+	top: 1103.5px;
+	overflow: visible;
+}
+.Rectangle_73_Class {
+	opacity: 0.4;
+	fill: rgba(42,66,74,1);
+	stroke: rgba(91,247,226,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_73 {
+	position: absolute;
+	overflow: visible;
+	width: 960px;
+	height: 133px;
+	left: 0px;
+	top: 85.5px;
+}
+.DISCOUNT_Class {
+	left: 0px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 181px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Titillium Web;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 40px;
+	color: rgba(91,247,226,1);
+	text-transform: uppercase;
+}
+.ID200_Class {
+	left: 424px;
+	top: 114.5px;
+	position: absolute;
+	overflow: visible;
+	width: 113px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Titillium Web;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 50px;
+	color: rgba(255,255,255,1);
+}
+.Group_8_Class {
+	position: absolute;
+	width: 960px;
+	height: 218.5px;
+	left: 88px;
+	top: 828.5px;
+	overflow: visible;
+}
+.Rectangle_72_Class {
+	opacity: 0.4;
+	fill: rgba(42,66,74,1);
+	stroke: rgba(91,247,226,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_72 {
+	position: absolute;
+	overflow: visible;
+	width: 960px;
+	height: 133px;
+	left: 0px;
+	top: 85.5px;
+}
+.PLAN_PRICE_Class {
+	left: 0px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 207px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Titillium Web;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 40px;
+	color: rgba(91,247,226,1);
+	text-transform: uppercase;
+}
+.ID599_Class {
+	left: 424px;
+	top: 113.5px;
+	position: absolute;
+	overflow: visible;
+	width: 113px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Titillium Web;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 50px;
+	color: rgba(255,255,255,1);
+}
+.Group_7_Class {
+	position: absolute;
+	width: 960px;
+	height: 222.5px;
+	left: 88px;
+	top: 552.5px;
+	overflow: visible;
+}
+.Rectangle_71_Class {
+	opacity: 0.4;
+	fill: rgba(42,66,74,1);
+	stroke: rgba(91,247,226,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_71 {
+	position: absolute;
+	overflow: visible;
+	width: 960px;
+	height: 133px;
+	left: 0px;
+	top: 89.5px;
+}
+.ID2_Year_Class {
+	left: 414px;
+	top: 118.5px;
+	position: absolute;
+	overflow: visible;
+	width: 133px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Titillium Web;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 50px;
+	color: rgba(255,255,255,1);
+}
+.icons8_expand_arrow_Class {
+	opacity: 0.46;
+	fill: rgba(91,247,226,1);
+}
+.icons8_expand_arrow {
+	overflow: visible;
+	position: absolute;
+	width: 33.976px;
+	height: 21.185px;
+	left: 860.491px;
+	top: 145.5px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Duration_Class {
+	left: 0px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 185px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Titillium Web;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 40px;
+	color: rgba(91,247,226,1);
+	text-transform: uppercase;
+}
+.Group_6_Class {
+	position: absolute;
+	width: 960px;
+	height: 222.494px;
+	left: 88px;
+	top: 277.506px;
+	overflow: visible;
+}
+.Rectangle_68_ed_Class {
+	opacity: 0.4;
+	fill: rgba(42,66,74,1);
+	stroke: rgba(91,247,226,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_68_ed {
+	position: absolute;
+	overflow: visible;
+	width: 960px;
+	height: 133px;
+	left: 0px;
+	top: 89.494px;
+}
+.Plan_Class {
+	left: 0px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 95px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Titillium Web;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 40px;
+	color: rgba(91,247,226,1);
+	text-transform: uppercase;
+}
+.Business_Professional_Class {
+	left: 245px;
+	top: 118.494px;
+	position: absolute;
+	overflow: visible;
+	width: 472px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Titillium Web;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 50px;
+	color: rgba(255,255,255,1);
+}
+.icons8_expand_arrow_eg_Class {
+	opacity: 0.46;
+	fill: rgba(91,247,226,1);
+}
+.icons8_expand_arrow_eg {
+	overflow: visible;
+	position: absolute;
+	width: 33.976px;
+	height: 21.185px;
+	left: 860.491px;
+	top: 145.494px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Line_eh_Class {
+	opacity: 0.2;
+	fill: transparent;
+	stroke: rgba(91,247,226,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Line_eh {
+	overflow: visible;
+	position: absolute;
+	width: 1136px;
+	height: 1px;
+	left: 0.5px;
+	top: 229.5px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Order_summary_Class {
+	left: 88px;
+	top: 102.396px;
+	position: absolute;
+	overflow: visible;
+	width: 436px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Titillium Web;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 65px;
+	color: rgba(255,255,255,1);
+}
+.back__cross_ej_Class {
+	position: absolute;
+	width: 1048.427px;
+	height: 43.39px;
+	left: 43.077px;
+	top: 34px;
+	overflow: visible;
+	transition: all 0.4s ease-out;
+	--web-animation: fadein 0.4s ease-out;
+	--web-action-type: page;
+	--web-action-target: 05__Subscriptions.html;
+	cursor: pointer;
+}
+.icons8_multiply_1_ek_Class {
+	fill: rgba(149,161,165,1);
+}
+.icons8_multiply_1_ek {
+	overflow: visible;
+	position: absolute;
+	width: 41.007px;
+	height: 40.856px;
+	left: 1007.42px;
+	top: 1px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.icons8_left_1_el_Class {
+	fill: rgba(149,161,165,1);
+}
+.icons8_left_1_el {
+	overflow: visible;
+	position: absolute;
+	width: 43.847px;
+	height: 43.39px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}

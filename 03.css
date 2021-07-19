@@ -1,0 +1,752 @@
+.mediaViewInfo {
+	--web-view-name: 03. My Content;
+	--web-view-id: ID03_My_Content;
+	--web-scale-to-fit: true;
+	--web-scale-to-fit-type: fit;
+	--web-enable-scale-up: true;
+	--web-scale-on-resize: true;
+	--web-center-vertically: true;
+	--web-enable-deep-linking: true;
+}
+:root {
+	--web-view-ids: ID03_My_Content;
+}
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	border: none;
+}
+.ID03_My_Content_Class {
+	position: absolute;
+	width: 1136px;
+	height: 2436px;
+	background-color: rgba(255,255,255,1);
+	overflow: hidden;
+	--web-view-name: 03. My Content;
+	--web-view-id: ID03_My_Content;
+	--web-scale-to-fit: true;
+	--web-scale-to-fit-type: fit;
+	--web-enable-scale-up: true;
+	--web-scale-on-resize: true;
+	--web-center-vertically: true;
+	--web-enable-deep-linking: true;
+}
+@keyframes fadein {
+
+	0% {
+		opacity: 0;
+	}
+	100% {
+		opacity: 1;
+	}
+
+}
+.BG_Class {
+	fill: rgba(42,66,74,1);
+}
+.BG {
+	position: absolute;
+	overflow: visible;
+	width: 1136px;
+	height: 2436px;
+	left: 0px;
+	top: 0px;
+}
+.botom_bar_il_Class {
+	fill: rgba(49,77,85,1);
+}
+.botom_bar_il {
+	overflow: visible;
+	position: absolute;
+	width: 1136px;
+	height: 200px;
+	left: 0px;
+	top: 2236px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.home_im_Class {
+	fill: rgba(162,175,178,1);
+}
+.home_im {
+	overflow: visible;
+	position: absolute;
+	width: 81.892px;
+	height: 70.724px;
+	left: 84px;
+	top: 2301px;
+	transform: matrix(1,0,0,1,0,0);
+	transition: all 0.4s ease-out;
+	--web-animation: fadein 0.4s ease-out;
+	--web-action-type: page;
+	--web-action-target: 04__Browse.html;
+	cursor: pointer;
+}
+.settings_in_Class {
+	opacity: 0.55;
+	fill: rgba(255,255,255,1);
+}
+.settings_in {
+	overflow: visible;
+	position: absolute;
+	width: 71.083px;
+	height: 74.447px;
+	left: 780.5px;
+	top: 2299px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.menu_io_Class {
+	opacity: 0.55;
+	position: absolute;
+	width: 55.564px;
+	height: 53px;
+	left: 984px;
+	top: 2310px;
+	overflow: visible;
+}
+.Line_192_ip_Class {
+	fill: transparent;
+	stroke: rgba(255,255,255,1);
+	stroke-width: 10px;
+	stroke-linejoin: miter;
+	stroke-linecap: round;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Line_192_ip {
+	overflow: visible;
+	position: absolute;
+	width: 65.564px;
+	height: 10px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Line_193_iq_Class {
+	fill: transparent;
+	stroke: rgba(255,255,255,1);
+	stroke-width: 10px;
+	stroke-linejoin: miter;
+	stroke-linecap: round;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Line_193_iq {
+	overflow: visible;
+	position: absolute;
+	width: 65.564px;
+	height: 10px;
+	left: 0px;
+	top: 27px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Line_194_ir_Class {
+	fill: transparent;
+	stroke: rgba(255,255,255,1);
+	stroke-width: 10px;
+	stroke-linejoin: miter;
+	stroke-linecap: round;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Line_194_ir {
+	overflow: visible;
+	position: absolute;
+	width: 65.564px;
+	height: 10px;
+	left: 0px;
+	top: 53px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.notification_is_Class {
+	opacity: 0.55;
+	fill: rgba(255,255,255,1);
+}
+.notification_is {
+	overflow: visible;
+	position: absolute;
+	width: 60.424px;
+	height: 72.447px;
+	left: 306.742px;
+	top: 2300px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.category_Class {
+	position: absolute;
+	width: 1245px;
+	height: 87px;
+	left: 55px;
+	top: 291px;
+	overflow: visible;
+}
+.Rectangle_56_Class {
+	fill: rgba(61,83,90,1);
+}
+.Rectangle_56 {
+	position: absolute;
+	overflow: visible;
+	width: 274px;
+	height: 87px;
+	left: 0px;
+	top: 0px;
+}
+.Video_Class {
+	left: 89px;
+	top: 13px;
+	position: absolute;
+	overflow: visible;
+	width: 98px;
+	white-space: nowrap;
+	line-height: 48px;
+	margin-top: -4px;
+	text-align: left;
+	font-family: Titillium Web;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 40px;
+	color: rgba(255,255,255,1);
+}
+.Rectangle_57_Class {
+	fill: transparent;
+	stroke: rgba(138,138,138,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_57 {
+	position: absolute;
+	overflow: visible;
+	width: 274px;
+	height: 87px;
+	left: 284px;
+	top: 0px;
+}
+.Audio_Class {
+	left: 372px;
+	top: 13px;
+	position: absolute;
+	overflow: visible;
+	width: 99px;
+	white-space: nowrap;
+	line-height: 48px;
+	margin-top: -4px;
+	text-align: left;
+	font-family: Titillium Web;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 40px;
+	color: rgba(161,161,161,1);
+}
+.Rectangle_58_Class {
+	fill: transparent;
+	stroke: rgba(138,138,138,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_58 {
+	position: absolute;
+	overflow: visible;
+	width: 219px;
+	height: 87px;
+	left: 568px;
+	top: 0px;
+}
+.PDF_Class {
+	left: 643px;
+	top: 13px;
+	position: absolute;
+	overflow: visible;
+	width: 71px;
+	white-space: nowrap;
+	line-height: 48px;
+	margin-top: -4px;
+	text-align: left;
+	font-family: Titillium Web;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 40px;
+	color: rgba(161,161,161,1);
+}
+.Rectangle_59_Class {
+	fill: transparent;
+	stroke: rgba(138,138,138,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_59 {
+	position: absolute;
+	overflow: visible;
+	width: 219px;
+	height: 87px;
+	left: 797px;
+	top: 0px;
+}
+.Docx_Class {
+	left: 865px;
+	top: 13px;
+	position: absolute;
+	overflow: visible;
+	width: 84px;
+	white-space: nowrap;
+	line-height: 48px;
+	margin-top: -4px;
+	text-align: left;
+	font-family: Titillium Web;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 40px;
+	color: rgba(161,161,161,1);
+}
+.Rectangle_59_i_Class {
+	fill: transparent;
+	stroke: rgba(138,138,138,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_59_i {
+	position: absolute;
+	overflow: visible;
+	width: 219px;
+	height: 87px;
+	left: 1026px;
+	top: 0px;
+}
+.my_content_button_i_Class {
+	position: absolute;
+	width: 178px;
+	height: 178px;
+	left: 479px;
+	top: 2180px;
+	overflow: visible;
+}
+.Ellipse_3_i_Class {
+	fill: rgba(255,255,255,1);
+}
+.Ellipse_3_i {
+	filter: drop-shadow(0px 16px 9px rgba(0, 0, 0, 0.051));
+	position: absolute;
+	overflow: visible;
+	width: 205px;
+	height: 207.5px;
+	left: 0px;
+	top: 0px;
+}
+.Group_1_i_Class {
+	position: absolute;
+	width: 74px;
+	height: 74px;
+	left: 52px;
+	top: 52px;
+	overflow: visible;
+}
+.Rectangle_6_i_Class {
+	fill: rgba(249,166,26,1);
+}
+.Rectangle_6_i {
+	position: absolute;
+	overflow: visible;
+	width: 31px;
+	height: 31px;
+	left: 0px;
+	top: 0px;
+}
+.Rectangle_9_i_Class {
+	fill: rgba(249,166,26,1);
+}
+.Rectangle_9_i {
+	position: absolute;
+	overflow: visible;
+	width: 31px;
+	height: 31px;
+	left: 0px;
+	top: 43px;
+}
+.Rectangle_7_i_Class {
+	fill: rgba(249,166,26,1);
+}
+.Rectangle_7_i {
+	position: absolute;
+	overflow: visible;
+	width: 31px;
+	height: 31px;
+	left: 43px;
+	top: 0px;
+}
+.Rectangle_8_i_Class {
+	fill: rgba(249,166,26,1);
+}
+.Rectangle_8_i {
+	position: absolute;
+	overflow: visible;
+	width: 31px;
+	height: 31px;
+	left: 43px;
+	top: 43px;
+}
+.search_box_ja_Class {
+	position: absolute;
+	width: 1027px;
+	height: 130px;
+	left: 55px;
+	top: 116px;
+	overflow: visible;
+}
+.Rectangle_5_jb_Class {
+	opacity: 0.09;
+	fill: rgba(255,255,255,1);
+}
+.Rectangle_5_jb {
+	position: absolute;
+	overflow: visible;
+	width: 1027px;
+	height: 130px;
+	left: 0px;
+	top: 0px;
+}
+.Repeat_Grid_2_jc_Class {
+	position: absolute;
+	width: 17px;
+	height: 50px;
+	left: 942px;
+	top: 40px;
+	overflow: hidden;
+}
+.Repeat_Grid_2_jc_0_Class {
+	position: absolute;
+	width: 10px;
+	height: 10px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+.Ellipse_6_je_Class {
+	fill: rgba(114,142,151,1);
+}
+.Ellipse_6_je {
+	position: absolute;
+	overflow: visible;
+	width: 10px;
+	height: 10px;
+	left: 0px;
+	top: 0px;
+}
+.Repeat_Grid_2_jc_1_Class {
+	position: absolute;
+	width: 10px;
+	height: 10px;
+	left: 0px;
+	top: 19px;
+	overflow: visible;
+}
+.Ellipse_6_jg_Class {
+	fill: rgba(114,142,151,1);
+}
+.Ellipse_6_jg {
+	position: absolute;
+	overflow: visible;
+	width: 10px;
+	height: 10px;
+	left: 0px;
+	top: 0px;
+}
+.Repeat_Grid_2_jc_2_Class {
+	position: absolute;
+	width: 10px;
+	height: 10px;
+	left: 0px;
+	top: 38px;
+	overflow: visible;
+}
+.Ellipse_6_ji_Class {
+	fill: rgba(114,142,151,1);
+}
+.Ellipse_6_ji {
+	position: absolute;
+	overflow: visible;
+	width: 10px;
+	height: 10px;
+	left: 0px;
+	top: 0px;
+}
+.icons8_search_50px_jj_Class {
+	opacity: 0.5;
+	position: absolute;
+	width: 62px;
+	height: 62px;
+	left: 48px;
+	top: 37px;
+	overflow: visible;
+}
+.content_Class {
+	position: absolute;
+	width: 1027px;
+	height: 1722px;
+	left: 56px;
+	top: 450px;
+	overflow: visible;
+}
+.After_Effects_CC_Fundamentals__Class {
+	left: 438px;
+	top: 1490px;
+	position: absolute;
+	overflow: hidden;
+	width: 590px;
+	height: 232px;
+	line-height: 48px;
+	margin-top: -1.5px;
+	text-align: left;
+	font-family: Titillium Web;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 45px;
+	color: rgba(255,255,255,1);
+}
+.Screenshot_2021-07-15_190959_Class {
+	position: absolute;
+	width: 399px;
+	height: 219px;
+	left: 0px;
+	top: 1497px;
+	overflow: visible;
+}
+.After_Effects_CC_Fundamentals__jn_Class {
+	left: 438px;
+	top: 1189px;
+	position: absolute;
+	overflow: hidden;
+	width: 590px;
+	height: 232px;
+	line-height: 48px;
+	margin-top: -1.5px;
+	text-align: left;
+	font-family: Titillium Web;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 45px;
+	color: rgba(255,255,255,1);
+}
+.after-effects-cc-paint-tools-v_Class {
+	position: absolute;
+	width: 399px;
+	height: 219px;
+	left: 0px;
+	top: 1196px;
+	overflow: visible;
+}
+.After_Effects_CC_Fundamentals__jp_Class {
+	left: 438px;
+	top: 901px;
+	position: absolute;
+	overflow: hidden;
+	width: 590px;
+	height: 232px;
+	line-height: 48px;
+	margin-top: -1.5px;
+	text-align: left;
+	font-family: Titillium Web;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 45px;
+	color: rgba(255,255,255,1);
+}
+.after-effects-cc-compositing-v_Class {
+	position: absolute;
+	width: 399px;
+	height: 219px;
+	left: 0px;
+	top: 908px;
+	overflow: visible;
+}
+.After_Effects_CC_Fundamentals__jr_Class {
+	left: 438px;
+	top: 589px;
+	position: absolute;
+	overflow: hidden;
+	width: 590px;
+	height: 232px;
+	line-height: 48px;
+	margin-top: -1.5px;
+	text-align: left;
+	font-family: Titillium Web;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 45px;
+	color: rgba(255,255,255,1);
+}
+.after-effects-cc-color-grading_Class {
+	position: absolute;
+	width: 399px;
+	height: 219px;
+	left: 0px;
+	top: 596px;
+	overflow: visible;
+}
+.After_Effects_CC_Fundamentals__jt_Class {
+	left: 438px;
+	top: 288px;
+	position: absolute;
+	overflow: hidden;
+	width: 590px;
+	height: 232px;
+	line-height: 48px;
+	margin-top: -1.5px;
+	text-align: left;
+	font-family: Titillium Web;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 45px;
+	color: rgba(255,255,255,1);
+}
+.after-effects-cc-2019-fundamen_Class {
+	position: absolute;
+	width: 399px;
+	height: 219px;
+	left: 0px;
+	top: 294px;
+	overflow: visible;
+}
+.After_Effects_CC_Fundamentals__jv_Class {
+	left: 438px;
+	top: 0px;
+	position: absolute;
+	overflow: hidden;
+	width: 590px;
+	height: 232px;
+	line-height: 48px;
+	margin-top: -1.5px;
+	text-align: left;
+	font-family: Titillium Web;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 45px;
+	color: rgba(255,255,255,1);
+}
+.after-effects-cc-2019-building_Class {
+	position: absolute;
+	width: 399px;
+	height: 219px;
+	left: 0px;
+	top: 7px;
+	overflow: visible;
+}
+.Repeat_Grid_3_Class {
+	position: absolute;
+	width: 142px;
+	height: 1612px;
+	left: 134px;
+	top: 54px;
+	overflow: hidden;
+}
+.Repeat_Grid_3_0_Class {
+	position: absolute;
+	width: 106px;
+	height: 106px;
+	left: 18px;
+	top: 9px;
+	overflow: visible;
+}
+.icons8_circled_play_96px_1_Class {
+	filter: drop-shadow(0px 9px 12px rgba(0, 0, 0, 0.569));
+	position: absolute;
+	width: 106px;
+	height: 106px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+.Repeat_Grid_3_1_Class {
+	position: absolute;
+	width: 106px;
+	height: 106px;
+	left: 18px;
+	top: 307px;
+	overflow: visible;
+}
+.icons8_circled_play_96px_1_j_Class {
+	filter: drop-shadow(0px 9px 12px rgba(0, 0, 0, 0.569));
+	position: absolute;
+	width: 106px;
+	height: 106px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+.Repeat_Grid_3_2_Class {
+	position: absolute;
+	width: 106px;
+	height: 106px;
+	left: 18px;
+	top: 605px;
+	overflow: visible;
+}
+.icons8_circled_play_96px_1_ka_Class {
+	filter: drop-shadow(0px 9px 12px rgba(0, 0, 0, 0.569));
+	position: absolute;
+	width: 106px;
+	height: 106px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+.Repeat_Grid_3_3_Class {
+	position: absolute;
+	width: 106px;
+	height: 106px;
+	left: 18px;
+	top: 903px;
+	overflow: visible;
+}
+.icons8_circled_play_96px_1_kb_Class {
+	filter: drop-shadow(0px 9px 12px rgba(0, 0, 0, 0.569));
+	position: absolute;
+	width: 106px;
+	height: 106px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+.Repeat_Grid_3_4_Class {
+	position: absolute;
+	width: 106px;
+	height: 106px;
+	left: 18px;
+	top: 1201px;
+	overflow: visible;
+}
+.icons8_circled_play_96px_1_kc_Class {
+	filter: drop-shadow(0px 9px 12px rgba(0, 0, 0, 0.569));
+	position: absolute;
+	width: 106px;
+	height: 106px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+.Repeat_Grid_3_5_Class {
+	position: absolute;
+	width: 106px;
+	height: 106px;
+	left: 18px;
+	top: 1499px;
+	overflow: visible;
+}
+.icons8_circled_play_96px_1_kd_Class {
+	filter: drop-shadow(0px 9px 12px rgba(0, 0, 0, 0.569));
+	position: absolute;
+	width: 106px;
+	height: 106px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}

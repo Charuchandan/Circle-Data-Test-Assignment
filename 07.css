@@ -1,0 +1,630 @@
+.mediaViewInfo {
+	--web-view-name: 07. Payment Delails;
+	--web-view-id: ID07_Payment_Delails;
+	--web-scale-to-fit: true;
+	--web-scale-to-fit-type: fit;
+	--web-scale-on-resize: true;
+	--web-center-vertically: true;
+	--web-enable-deep-linking: true;
+}
+:root {
+	--web-view-ids: ID07_Payment_Delails;
+}
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	border: none;
+}
+.ID07_Payment_Delails_Class {
+	position: absolute;
+	width: 1136px;
+	height: 2436px;
+	background-color: rgba(255,255,255,1);
+	overflow: hidden;
+	--web-view-name: 07. Payment Delails;
+	--web-view-id: ID07_Payment_Delails;
+	--web-scale-to-fit: true;
+	--web-scale-to-fit-type: fit;
+	--web-scale-on-resize: true;
+	--web-center-vertically: true;
+	--web-enable-deep-linking: true;
+}
+@keyframes fadein {
+
+	0% {
+		opacity: 0;
+	}
+	100% {
+		opacity: 1;
+	}
+
+}
+.Rectangle_4_bx_Class {
+	fill: rgba(42,66,74,1);
+}
+.Rectangle_4_bx {
+	position: absolute;
+	overflow: visible;
+	width: 1136px;
+	height: 2436px;
+	left: 0px;
+	top: 0px;
+}
+.botom_bar_by_Class {
+	fill: rgba(49,77,85,1);
+}
+.botom_bar_by {
+	overflow: visible;
+	position: absolute;
+	width: 1136px;
+	height: 200px;
+	left: 0px;
+	top: 2236px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.menu_bz_Class {
+	opacity: 0.55;
+	position: absolute;
+	width: 55.564px;
+	height: 53px;
+	left: 984px;
+	top: 2310px;
+	overflow: visible;
+}
+.Line_192_b_Class {
+	fill: transparent;
+	stroke: rgba(255,255,255,1);
+	stroke-width: 10px;
+	stroke-linejoin: miter;
+	stroke-linecap: round;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Line_192_b {
+	overflow: visible;
+	position: absolute;
+	width: 65.564px;
+	height: 10px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Line_193_b_Class {
+	fill: transparent;
+	stroke: rgba(255,255,255,1);
+	stroke-width: 10px;
+	stroke-linejoin: miter;
+	stroke-linecap: round;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Line_193_b {
+	overflow: visible;
+	position: absolute;
+	width: 65.564px;
+	height: 10px;
+	left: 0px;
+	top: 27px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Line_194_b_Class {
+	fill: transparent;
+	stroke: rgba(255,255,255,1);
+	stroke-width: 10px;
+	stroke-linejoin: miter;
+	stroke-linecap: round;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Line_194_b {
+	overflow: visible;
+	position: absolute;
+	width: 65.564px;
+	height: 10px;
+	left: 0px;
+	top: 53px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.settings_b_Class {
+	opacity: 0.55;
+	fill: rgba(255,255,255,1);
+}
+.settings_b {
+	overflow: visible;
+	position: absolute;
+	width: 71.083px;
+	height: 74.447px;
+	left: 780.5px;
+	top: 2299px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.my_content_button_b_Class {
+	position: absolute;
+	width: 178px;
+	height: 178px;
+	left: 479px;
+	top: 2180px;
+	overflow: visible;
+}
+.Ellipse_3_b_Class {
+	fill: rgba(72,101,109,1);
+}
+.Ellipse_3_b {
+	filter: drop-shadow(0px 16px 9px rgba(0, 0, 0, 0.051));
+	position: absolute;
+	overflow: visible;
+	width: 205px;
+	height: 207.5px;
+	left: 0px;
+	top: 0px;
+}
+.Group_1_b_Class {
+	opacity: 0.8;
+	position: absolute;
+	width: 74px;
+	height: 74px;
+	left: 52px;
+	top: 52px;
+	overflow: visible;
+}
+.Rectangle_6_b_Class {
+	fill: rgba(255,255,255,1);
+}
+.Rectangle_6_b {
+	position: absolute;
+	overflow: visible;
+	width: 31px;
+	height: 31px;
+	left: 0px;
+	top: 0px;
+}
+.Rectangle_9_b_Class {
+	fill: rgba(255,255,255,1);
+}
+.Rectangle_9_b {
+	position: absolute;
+	overflow: visible;
+	width: 31px;
+	height: 31px;
+	left: 0px;
+	top: 43px;
+}
+.Rectangle_7_b_Class {
+	fill: rgba(255,255,255,1);
+}
+.Rectangle_7_b {
+	position: absolute;
+	overflow: visible;
+	width: 31px;
+	height: 31px;
+	left: 43px;
+	top: 0px;
+}
+.Rectangle_8_ca_Class {
+	fill: rgba(255,255,255,1);
+}
+.Rectangle_8_ca {
+	position: absolute;
+	overflow: visible;
+	width: 31px;
+	height: 31px;
+	left: 43px;
+	top: 43px;
+}
+.notification_cb_Class {
+	opacity: 0.55;
+	fill: rgba(255,255,255,1);
+}
+.notification_cb {
+	overflow: visible;
+	position: absolute;
+	width: 60.424px;
+	height: 72.447px;
+	left: 306.742px;
+	top: 2300px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.home_cc_Class {
+	fill: rgba(249,166,26,1);
+}
+.home_cc {
+	overflow: visible;
+	position: absolute;
+	width: 81.892px;
+	height: 70.724px;
+	left: 84px;
+	top: 2301px;
+	transform: matrix(1,0,0,1,0,0);
+	transition: all 0.4s ease-out;
+	--web-animation: fadein 0.4s ease-out;
+	--web-action-type: page;
+	--web-action-target: 04__Browse.html;
+	cursor: pointer;
+}
+.-_OR_-_Class {
+	opacity: 0.5;
+	left: 502px;
+	top: 1529px;
+	position: absolute;
+	overflow: visible;
+	width: 134px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Titillium Web;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 52px;
+	color: rgba(91,247,226,1);
+}
+.From_Saved_Account_Class {
+	position: absolute;
+	width: 1049px;
+	height: 1206px;
+	left: 44px;
+	top: 260px;
+	overflow: visible;
+}
+.Rectangle_67_Class {
+	opacity: 0.1;
+	fill: rgba(109,147,159,1);
+}
+.Rectangle_67 {
+	position: absolute;
+	overflow: visible;
+	width: 1049px;
+	height: 1206px;
+	left: 0px;
+	top: 0px;
+}
+.Rectangle_78_Class {
+	opacity: 0.08;
+	fill: rgba(109,147,159,1);
+}
+.Rectangle_78 {
+	position: absolute;
+	overflow: visible;
+	width: 1049px;
+	height: 152px;
+	left: 0px;
+	top: 0px;
+}
+.From_Saved_Account_ch_Class {
+	left: 44px;
+	top: 36px;
+	position: absolute;
+	overflow: visible;
+	width: 436px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Titillium Web;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 50px;
+	color: rgba(255,255,255,1);
+}
+.From_a_new_account_Class {
+	position: absolute;
+	width: 1029px;
+	height: 157px;
+	left: 54px;
+	top: 1673px;
+	overflow: visible;
+}
+.Rectangle_38_Class {
+	fill: rgba(48,72,81,1);
+	stroke: rgba(91,247,226,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_38 {
+	position: absolute;
+	overflow: visible;
+	width: 1029px;
+	height: 157px;
+	left: 0px;
+	top: 0px;
+}
+.From_a_new_account_ck_Class {
+	left: 259px;
+	top: 41px;
+	position: absolute;
+	overflow: visible;
+	width: 513px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Titillium Web;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 50px;
+	color: rgba(255,255,255,1);
+	text-transform: uppercase;
+}
+.CONFIRM_Class {
+	position: absolute;
+	width: 960px;
+	height: 157px;
+	left: 88px;
+	top: 1233px;
+	overflow: visible;
+	transition: all 0.3s linear;
+	--web-animation: fadein 0.3s linear;
+	--web-action-type: page;
+	--web-action-target: 08__OTP.html;
+	cursor: pointer;
+}
+.Rectangle_44_cm_Class {
+	fill: rgba(249,166,26,1);
+}
+.Rectangle_44_cm {
+	filter: drop-shadow(0px 11px 20px rgba(0, 0, 0, 0.169));
+	position: absolute;
+	overflow: visible;
+	width: 1020px;
+	height: 217px;
+	left: 0px;
+	top: 0px;
+}
+.CONFIRM_cn_Class {
+	left: 373px;
+	top: 39px;
+	position: absolute;
+	overflow: visible;
+	width: 216px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Titillium Web;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 52px;
+	color: rgba(255,255,255,1);
+}
+.Expiration_Date_Class {
+	position: absolute;
+	width: 960px;
+	height: 209.396px;
+	left: 88px;
+	top: 930px;
+	overflow: visible;
+}
+.Rectangle_70_Class {
+	opacity: 0.4;
+	fill: rgba(42,66,74,1);
+	stroke: rgba(91,247,226,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_70 {
+	position: absolute;
+	overflow: visible;
+	width: 960px;
+	height: 133px;
+	left: 0px;
+	top: 76.396px;
+}
+.ID20122030_Class {
+	opacity: 0.8;
+	left: 295px;
+	top: 105.396px;
+	position: absolute;
+	overflow: visible;
+	width: 372px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Titillium Web;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 50px;
+	color: rgba(255,255,255,1);
+	letter-spacing: 2.73px;
+}
+.Expiration_Date_cr_Class {
+	left: 0px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 312px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Titillium Web;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 40px;
+	color: rgba(91,247,226,1);
+	text-transform: uppercase;
+}
+.Rectangle_69_Class {
+	opacity: 0.4;
+	fill: rgba(42,66,74,1);
+	stroke: rgba(91,247,226,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_69 {
+	position: absolute;
+	overflow: visible;
+	width: 960px;
+	height: 133px;
+	left: 88px;
+	top: 760.396px;
+}
+.ID5842_6875_2561_1234_Class {
+	opacity: 0.8;
+	left: 257px;
+	top: 789.396px;
+	position: absolute;
+	overflow: visible;
+	width: 623px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Titillium Web;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 50px;
+	color: rgba(255,255,255,1);
+	letter-spacing: 1.57px;
+}
+.CARD_NO_Class {
+	left: 88px;
+	top: 684px;
+	position: absolute;
+	overflow: visible;
+	width: 160px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Titillium Web;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 40px;
+	color: rgba(91,247,226,1);
+	text-transform: uppercase;
+}
+.NAME_Class {
+	position: absolute;
+	width: 960px;
+	height: 209.5px;
+	left: 88px;
+	top: 439px;
+	overflow: visible;
+}
+.Rectangle_68_cw_Class {
+	opacity: 0.4;
+	fill: rgba(42,66,74,1);
+	stroke: rgba(91,247,226,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_68_cw {
+	position: absolute;
+	overflow: visible;
+	width: 960px;
+	height: 133px;
+	left: 0px;
+	top: 76.5px;
+}
+.NAME_cx_Class {
+	left: 0px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 109px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Titillium Web;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 40px;
+	color: rgba(91,247,226,1);
+	text-transform: uppercase;
+}
+.Chandan_Acharja_Class {
+	opacity: 0.8;
+	left: 302px;
+	top: 105.5px;
+	position: absolute;
+	overflow: visible;
+	width: 359px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Titillium Web;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 50px;
+	color: rgba(255,255,255,1);
+}
+.Visa_Class {
+	position: absolute;
+	width: 127px;
+	height: 62px;
+	left: 921px;
+	top: 303px;
+	overflow: visible;
+}
+.Rectangle_65_Class {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_65 {
+	position: absolute;
+	overflow: visible;
+	width: 127px;
+	height: 62px;
+	left: 0px;
+	top: 0px;
+}
+.Visa_Inc_logosvg_Class {
+	position: absolute;
+	width: 91px;
+	height: 30px;
+	left: 18px;
+	top: 16px;
+	overflow: visible;
+}
+.Payment_Details_Class {
+	left: 88px;
+	top: 102.396px;
+	position: absolute;
+	overflow: visible;
+	width: 458px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Titillium Web;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 65px;
+	color: rgba(255,255,255,1);
+}
+.back__cross_c_Class {
+	position: absolute;
+	width: 1048.427px;
+	height: 43.39px;
+	left: 43.076px;
+	top: 34px;
+	overflow: visible;
+	transition: all 0.4s ease-out;
+	--web-animation: fadein 0.4s ease-out;
+	--web-action-type: page;
+	--web-action-target: 06__Order_summary.html;
+	cursor: pointer;
+}
+.icons8_multiply_1_c_Class {
+	fill: rgba(149,161,165,1);
+}
+.icons8_multiply_1_c {
+	overflow: visible;
+	position: absolute;
+	width: 41.007px;
+	height: 40.856px;
+	left: 1007.42px;
+	top: 1px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.icons8_left_1_Class {
+	fill: rgba(149,161,165,1);
+}
+.icons8_left_1 {
+	overflow: visible;
+	position: absolute;
+	width: 43.847px;
+	height: 43.39px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}

@@ -1,0 +1,120 @@
+.mediaViewInfo {
+	--web-view-name: 01. Welcome Screen;
+	--web-view-id: ID01_Welcome_Screen;
+	--web-scale-to-fit: true;
+	--web-scale-to-fit-type: fit;
+	--web-scale-on-resize: true;
+	--web-actual-size-on-double-click: true;
+	--web-center-vertically: true;
+	--web-enable-deep-linking: true;
+}
+:root {
+	--web-view-ids: ID01_Welcome_Screen;
+}
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	border: none;
+}
+.ID01_Welcome_Screen_Class {
+	position: absolute;
+	width: 1136px;
+	height: 2436px;
+	background-color: rgba(255,255,255,1);
+	overflow: hidden;
+	--web-view-name: 01. Welcome Screen;
+	--web-view-id: ID01_Welcome_Screen;
+	--web-scale-to-fit: true;
+	--web-scale-to-fit-type: fit;
+	--web-scale-on-resize: true;
+	--web-actual-size-on-double-click: true;
+	--web-center-vertically: true;
+	--web-enable-deep-linking: true;
+}
+@keyframes fadein {
+
+	0% {
+		opacity: 0;
+	}
+	100% {
+		opacity: 1;
+	}
+
+}
+.Color_Circle_ku_Class {
+	position: absolute;
+	width: 2050px;
+	height: 1429px;
+	left: -413px;
+	top: -269px;
+	overflow: visible;
+}
+.Ellipse_4_kv_Class {
+	fill: rgba(247,166,30,1);
+}
+.Ellipse_4_kv {
+	position: absolute;
+	overflow: visible;
+	width: 1951px;
+	height: 1369px;
+	left: 99px;
+	top: 60px;
+}
+.Ellipse_1_kw_Class {
+	fill: rgba(42,66,74,1);
+}
+.Ellipse_1_kw {
+	position: absolute;
+	overflow: visible;
+	width: 1951px;
+	height: 1369px;
+	left: 0px;
+	top: 0px;
+}
+.Get_Started_Class {
+	position: absolute;
+	width: 660px;
+	height: 172px;
+	left: 233px;
+	top: 1918px;
+	overflow: visible;
+	transition: all 0.3s ease-out;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: 02__Login.html;
+	cursor: pointer;
+}
+.Rectangle_1_ky_Class {
+	fill: rgba(42,66,74,1);
+}
+.Rectangle_1_ky {
+	position: absolute;
+	overflow: visible;
+	width: 660px;
+	height: 172px;
+	left: 0px;
+	top: 0px;
+}
+.Get_Started_kz_Class {
+	left: 209px;
+	top: 48px;
+	position: absolute;
+	overflow: visible;
+	width: 244px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Titillium Web;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 50px;
+	color: rgba(255,255,255,1);
+}
+.Logo-White_k_Class {
+	position: absolute;
+	width: 511px;
+	height: 119px;
+	left: 313px;
+	top: 513px;
+	overflow: visible;
+}
